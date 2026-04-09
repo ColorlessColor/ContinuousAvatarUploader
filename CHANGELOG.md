@@ -11,6 +11,8 @@ The format is based on [Keep a Changelog].
 
 ### Changed
 
+- Will check is copyright agreement already agree before send agree request. [`#151`](https://github.com/anatawa12/ContinuousAvatarUploader/pull/151)
+
 ### Deprecated
 
 ### Removed
